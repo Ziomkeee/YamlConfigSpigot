@@ -1,0 +1,8 @@
+name: YamlConfigSpigot
+version: 1.0.0
+description: YamlConfigSpigot by Ziomkeee
+author: Ziomkeee
+
+main: pl.qdev.YamlConfigSpigot.Main
+api-version: 1.16
+commands:
